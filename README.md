@@ -4,7 +4,7 @@
 "Connecting food donors with those in need through an online platform" 
 
 ## 🌍 Overview
-FoodConnect is a web platform that bridges the gap between food donors and recipients. It provides a marketplace for food donations, AI-powered food expiry predictions, a real-time chat system, and various filtering options to ensure food accessibility for those in need.
+FoodConnect is a web platform bridging the gap between donors and recipients. It provides a marketplace for food donations, AI-powered food expiry predictions, a real-time chat system, and various filtering options to ensure food accessibility for those in need.
 
 ## 💪 Group Members
 - **Puneet North**
@@ -107,3 +107,6 @@ Ensure you have the following installed on your machine:
 
 ## 📌 Links
 - 🎨 **Figma Design**: [View on Figma](https://www.figma.com/design/lslDNDAiHzhVulIRzpf3e9/Untitled?node-id=0-1&t=YOmYcakXcrBR3bdA-1)
+
+## 🖥️ Hackathon
+- 🎨 **Google Developers Student Club**: Simon Fraser University
