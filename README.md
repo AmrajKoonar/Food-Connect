@@ -12,6 +12,9 @@ FoodConnect is a web platform bridging the gap between donors and recipients. It
 - **Jake Bareng**
 - **Priyansh Sarvaiya**
 
+## 🖥️ Hackathon:
+**Google Developers Student Club**: Simon Fraser University
+
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -108,5 +111,4 @@ Ensure you have the following installed on your machine:
 ## 📌 Links
 - 🎨 **Figma Design**: [View on Figma](https://www.figma.com/design/lslDNDAiHzhVulIRzpf3e9/Untitled?node-id=0-1&t=YOmYcakXcrBR3bdA-1)
 
-## 🖥️ Hackathon
-- 🎨 **Google Developers Student Club**: Simon Fraser University
+
