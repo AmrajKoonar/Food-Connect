@@ -3,7 +3,7 @@
 
 "Connecting food donors with those in need through an online platform" 
 
-## 🌍 Overvie
+## 🌍 Overview
 FoodConnect is a web platform bridging the gap between donors and recipients. It provides a marketplace for food donations, AI-powered food expiry predictions, a real-time chat system, and various filtering options to ensure food accessibility for those in need.
 
 ## 💪 Group Members
